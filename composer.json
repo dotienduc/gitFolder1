@@ -1,0 +1,6 @@
+{
+    "require": {
+        "czproject/git-php": "^3.17",
+        "monolog/monolog": "^1.24"
+    }
+}
